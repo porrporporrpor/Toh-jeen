@@ -1,0 +1,26 @@
+{
+  "title":"Kua Kun Pu",
+  "home":"Home",
+  "menu":"Menu",
+  "contact":"Contact",
+  "signin": {
+    "title": "Sign in",
+    "dontHaveAnAccount": "Don't have an account? ",
+    "signUpFree": "Sign up free",
+    "forgotPassword": "Forgot password?"
+  },
+  "signup": {
+    "title":"Sign up",
+    "haveAlreadyAnAccount": "Have already an accout? ",
+    "loginHere":"Login here"
+  },
+  "email":"Email",
+  "password":"Password",
+  "confirmPassword":"Confirm Password",
+  "firstname":"Firstname",
+  "lastname":"Lastname",
+  "register":"Register",
+  "login":"Login",
+  "logout":"Logout"
+  
+}

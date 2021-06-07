@@ -1,0 +1,26 @@
+{
+  "title":"โต๊ะจีนครัวคุณปู",
+  "home":"หน้าแรก",
+  "menu":"เมนูอาหาร",
+  "contact":"ติดต่อเรา",
+  "signin": {
+    "title": "เข้าสู่ระบบ",
+    "dontHaveAnAccount": "ยังไม่มีบัญชีผู้ใช้? ",
+    "signUpFree": "สมัครสมาชิก",
+    "forgotPassword": "ลืมรหัสผ่าน?"
+  },
+  "signup": {
+    "title":"สมัครสมาชิก",
+    "haveAlreadyAnAccount": "มีบัญชีผู้ใช้อยู่แล้ว? ",
+    "loginHere":"เข้าสู่ระบบ"
+  },
+  "email":"อีเมล์",
+  "password":"รหัสผ่าน",
+  "confirmPassword":"ยืนยันรหัสผ่าน",
+  "firstname":"ชื่อ",
+  "lastname":"นามสกุล",
+  "register":"สมัครสมาชิก",
+  "login":"เข้าสู่ระบบ",
+  "logout":"ออกจากระบบ"
+  
+}
